@@ -1,2 +1,2 @@
 
-basnet 
+basnet (chhetri)
