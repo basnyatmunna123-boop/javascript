@@ -1,2 +1,5 @@
 
+
 basnet(xettri)
+basnet(chhetri)
+
